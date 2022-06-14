@@ -1,3 +1,5 @@
 Hello Git
 add a txt in learn txt
 end
+insert "New" in txt.
+BYE
